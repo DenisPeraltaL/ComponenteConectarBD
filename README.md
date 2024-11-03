@@ -163,5 +163,11 @@ En la parte de *Other components* podremos ver que se ha agregado nuestro compon
 
 ![Captura de pantalla 2024-11-03 012650](https://github.com/user-attachments/assets/dd1567f9-c98a-41a0-b256-18a47359f683)
 
+## VIDEO
+
+https://github.com/user-attachments/assets/71ab22e4-64ce-439d-bccf-81fa62dd9438
+
+
+
 
 
