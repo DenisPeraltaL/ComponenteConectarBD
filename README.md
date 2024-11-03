@@ -1,5 +1,8 @@
 # ComponenteConectarBD
 *Componente para conectar un proyecto a una base de datos en MySQL*
+#### Equipo 14
+#### Rodriguez Alavés Alejandro
+#### Peralta López Denis
 
 ## Instalación del Componente en NetBeans
 1. Descarga del Proyecto:
